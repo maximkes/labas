@@ -1,0 +1,15 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Аннотация}{2}{section.1}%
+\contentsline {section}{\numberline {2}Теоретические сведения}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Точечный магнитный диполь}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Неодимовые магнитные шары}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Экспериментальное определение величины магнитного момента магнитных шариков}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Измерение горизонтальной составляющей индукции магнитного поля Земля}{3}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Измерение вертикальной составляющей индукции магнитного поля Земли}{3}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Результаты измерений и обработка данных}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Определение магнитного момента}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Определение горизонтальной составляющей}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Определение вертикальной составляющей}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Подсчёт индукции магнитного поля Земли}{6}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Вывод}{6}{section.4}%
+\contentsline {section}{\numberline {5}Контрольные вопросы}{6}{section.5}%
