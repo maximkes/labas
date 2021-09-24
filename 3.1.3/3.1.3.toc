@@ -12,4 +12,3 @@
 \contentsline {subsection}{\numberline {3.3}Определение вертикальной составляющей}{5}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}Подсчёт индукции магнитного поля Земли}{6}{subsection.3.4}%
 \contentsline {section}{\numberline {4}Вывод}{6}{section.4}%
-\contentsline {section}{\numberline {5}Контрольные вопросы}{6}{section.5}%
