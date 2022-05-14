@@ -56,8 +56,8 @@
 \begin{document}
 
     \maketitle
-    \tableofcontents
-    \newpage
+    % \tableofcontents
+    % \newpage
     
 \section{Аннотация}
 
@@ -74,7 +74,6 @@ $$n = 67 \;\;\text{дел},$$
 $$\lambda \approx 67\cdot10\cdot2=1340 \;\; \text{мкм},$$
 $$v = \lambda \cdot \nu \approx 1840 \;\; \text{м/с}.$$
 Эта величина не является точной, т. к. оценка проводилась по факту наибольшей видимости, поэтому подсчёт погрешностей не имеет смысла.
-
 
 \begin{table}[!ht]
     \centering
@@ -101,18 +100,25 @@ $$v = \lambda \cdot \nu \approx 1840 \;\; \text{м/с}.$$
     \end{table}
 
 
-Построим график $\nu(n)$
-\begin{figure}[h]
+\noindent График зависимости $x_m(m)$ приведён на рис. 1.
+\begin{figure}[!ht]
 			\begin{center}
 				\includegraphics[width = 0.55\textwidth]{images/Im1.jpg}
-		        \caption{Графики зависимости $\nu(n)$}
+		        \caption{Графики зависимости положения дифракционных максимумов от их порядка}
 			\end{center}
     \end{figure}
 
 \subsection{Исследование методом тёмного поля}
 
 
-Цена деления шкалы микроскопа определяется как $$1 \;\;\text{дел} = 45 \;\;\text{мкм}.$$ Найдём длину ультразвуковой волны. Результаты измерений в таблице 3.
+Цена деления шкалы микроскопа определяется как $$1 \;\;\text{дел} = 45 \;\;\text{мкм}.$$ Найдём длину ультразвуковой волны. Результаты измерений в таблице 3. Откуда получим $$v = 1419 \pm 40 \;\; \text{м/с}.$$
+
+\begin{figure}[!ht]
+			\begin{center}
+				\includegraphics[width = 0.55\textwidth]{images/Im2.jpg}
+		        \caption{Графики зависимости длины УЗ волны от периода}
+			\end{center}
+\end{figure}
 
 \begin{table}[!ht]
     \centering
@@ -125,15 +131,11 @@ $$v = \lambda \cdot \nu \approx 1840 \;\; \text{м/с}.$$
     $\Lambda$, мкм & $183$    & $142$    & $69$     \\ \hline
     \end{tabular}
 \end{table}
-\begin{figure}[h]
-			\begin{center}
-				\includegraphics[width = 0.55\textwidth]{images/Im2.jpg}
-		        \caption{Графики зависимости $\Lambda(1/\nu)$}
-			\end{center}
-    \end{figure}
 
+\section{Вывод}
 
-\noindent Откуда $$v = 1419 \pm 40 \;\; \text{м/с}.$$
+\noindent В работе не удалось провести достаточное количество измерений и получить достаточно чёткие полосы. В основном это связано с особенностями оборудования, применяемого в опыте --- генератором частот. \medskip
 
+\noindent Так или иначе, удалось с неплохой точностью измерить скорость звука в воде используя волны как синусоидальную решётку. Кроме того, была изучена дифракция света на акустической решётке, был применён и изучен метод тёмного поля в наблюдении фазовых объектов.
 
 \end{document}
